@@ -1,0 +1,101 @@
+/* Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700&display=swap');
+
+* {
+    margin: 0;
+}
+
+body {
+    background-color: #DDF3FF;
+    font-family: 'Poppins', sans-serif;
+}
+
+i {
+    font-size: 1.3rem;
+    vertical-align: middle;
+    padding-right: 5px;
+}
+
+img {
+    width: 170px;
+    display: block;
+}
+
+.card {
+    display: block;
+    margin: 0 auto;
+    padding: 1.5rem;
+    padding-top: 5.5rem;
+    width: 480px;
+    height: 500px;
+    background-color: #f3f3f3;
+    border: 2px solid #000000;
+    border-radius: 15px;
+    text-align: center;
+}
+
+.image {
+    position: relative;
+    left: 45vw;
+    top: 10vh;
+    border-radius: 100%;
+    box-shadow: 0px 2px 4px #000000;
+}
+
+.button-section {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    align-items: stretch;
+}
+
+.button {
+    width: 25rem;
+    height: 1.5rem;
+    margin-top: 1.5rem;
+    margin-left: 1rem;
+    padding: 1.5rem;
+    border: 1px solid black;
+    border-radius: 15px;
+    text-decoration: none;
+    font-weight: 500;
+    font-size: 1.2rem;
+    color: #000000;
+}
+
+.button-content {
+    display: inline;
+    margin-right: 0.5rem;
+}
+
+.twit-button {
+    background-color: #88BFE8;
+}
+
+.twit-button:hover {
+    background-color: #d3e8f8;
+}
+
+.git-button {
+    background-color: #D9D9D9;
+}
+
+.git-button:hover {
+    background-color: #e7e7e7;
+}
+
+.linkedin-button {
+    background-color: #8998E4;
+}
+
+.linkedin-button:hover {
+    background-color: #bcc5f1;
+}
+
+.insta-button {
+    background-color: #FFB6F8;
+}
+
+.insta-button:hover {
+    background-color: #fdd4f9;
+}
