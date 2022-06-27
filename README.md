@@ -10,5 +10,5 @@
 ![ColorPalette](https://user-images.githubusercontent.com/90986300/175407363-8ad90861-ad54-43ae-9ea9-0ffcbbd9c713.png)
 
 ## What's next to improve this project?
-- Adding media queries to fit the screen of tablet devices (~560px and up.) 
+- Adding media queries to fit the screen of tablet devices (~960px and lower.) 
 - Adding a 3 second transistion effect to the card for a smoother experience.
